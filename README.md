@@ -1,8 +1,6 @@
 # Student Result Management System
 
-![Build](https://github.com/nakuldevshekhawatnakuldevshekhawat
-nakuldevshekhawat
-nakuldevshekhawat/student-result-management-system/actions/workflows/build.yml/badge.svg)
+(https://github.com/nakuldevshekhawat/student-result-management-system/actions/workflows/build.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-11+-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
