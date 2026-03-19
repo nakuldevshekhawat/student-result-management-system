@@ -1,6 +1,8 @@
 # Student Result Management System
 
-![Build](https://github.com/YOUR_USERNAME/student-result-management-system/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/nakuldevshekhawatnakuldevshekhawat
+nakuldevshekhawat
+nakuldevshekhawat/student-result-management-system/actions/workflows/build.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-11+-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -73,7 +75,7 @@ lib/mysql-connector-j.jar
 Open `src/main/java/com/srms/config/DBConnection.java` and update:
 
 ```java
-private static final String USER     = "root";           // your MySQL username
+private static final String USER     = "root";           // your MySQL 
 private static final String PASSWORD = "your_password";  // your MySQL password
 ```
 
@@ -94,7 +96,7 @@ build.bat run
 
 ## Default Login Credentials
 
-| Username | Password  | Role    |
+|  | Password  | Role    |
 |----------|-----------|---------|
 | admin    | admin123  | ADMIN   |
 | faculty1 | admin123  | FACULTY |
