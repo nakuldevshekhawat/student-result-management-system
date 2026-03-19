@@ -1,0 +1,33 @@
+# Compiled output
+out/
+target/
+*.class
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+.classpath
+.project
+.settings/
+
+# JAR (don't commit the driver – users download it)
+lib/
+*.jar
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Exported CSVs
+*_result.csv
+
+# Environment / secrets (never commit real credentials)
+.env
+db.properties
